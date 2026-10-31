@@ -94,12 +94,7 @@ context-aware-autonomous-ai-agent-scientific-discovery/
 ├── llm.py                 # LLM integration and response generation
 ├── generator.py           # Research or molecule-concept generation
 ├── validator.py           # Validation of generated outputs
-│
-├── tests/
-│   └── test_validator.py  # Automated validation tests
-│
 ├── requirements.txt       # Python dependencies
-├── .env.example           # Example environment configuration
 └── README.md              # Project documentation
 ```
 
