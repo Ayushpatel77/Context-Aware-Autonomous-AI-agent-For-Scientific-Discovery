@@ -43,7 +43,6 @@ if run_btn:
         st.write(summary_text)
 
         # Display fetched papers
-        # Display fetched papers
         st.subheader('📚 Fetched Research Papers')
         for i, p in enumerate(papers, 1):
             title = p.get('title') or 'No title'
