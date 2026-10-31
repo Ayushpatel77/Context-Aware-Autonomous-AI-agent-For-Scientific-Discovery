@@ -22,13 +22,13 @@ The application is designed as an academic AI project demonstrating the integrat
 
 ## ✨ Key Features
 
-- **🔎 Scientific Literature Retrieval** — Fetches relevant research papers using Semantic Scholar.
-- **🧠 AI-Powered Research Summarization** — Uses an LLM to synthesize information and generate concise research insights.
-- **🧬 Exploratory Molecule Concept Generation** — Generates preliminary molecule concepts inspired by a selected research topic.
-- **✅ Output Validation** — Includes a validation component to check generated outputs.
-- **🌐 Interactive Web Interface** — Provides a user-friendly interface built with Streamlit.
-- **🔗 LLM Integration** — Connects to language models through OpenRouter.
-- **💡 Research Topic Exploration** — Supports exploration of scientific topics such as Alzheimer's disease and related research areas.
+- ** Scientific Literature Retrieval** — Fetches relevant research papers using Semantic Scholar.
+- ** AI-Powered Research Summarization** — Uses an LLM to synthesize information and generate concise research insights.
+- ** Exploratory Molecule Concept Generation** — Generates preliminary molecule concepts inspired by a selected research topic.
+- ** Output Validation** — Includes a validation component to check generated outputs.
+- ** Interactive Web Interface** — Provides a user-friendly interface built with Streamlit.
+- ** LLM Integration** — Connects to language models through OpenRouter.
+- ** Research Topic Exploration** — Supports exploration of scientific topics such as Alzheimer's disease and related research areas.
 
 ## 🛠️ Technology Stack
 
